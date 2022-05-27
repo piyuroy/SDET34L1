@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26528" started-at="2022-05-27T04:48:09Z" finished-at="2022-05-27T04:48:36Z">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateContactsTest.createContactsTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="createContactsTest" class="com.vtiger.contactsTest.CreateContactsTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="26528" started-at="2022-05-27T04:48:09Z" finished-at="2022-05-27T04:48:36Z">
+      <class name="com.vtiger.contactsTest.CreateContactsTest">
+        <test-method status="PASS" signature="beforeSuiteTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="beforeSuiteTest" is-config="true" duration-ms="1607" started-at="2022-05-27T04:48:08Z" finished-at="2022-05-27T04:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="beforeClass" is-config="true" duration-ms="4722" started-at="2022-05-27T04:48:10Z" finished-at="2022-05-27T04:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="beforeMethod" is-config="true" duration-ms="5247" started-at="2022-05-27T04:48:14Z" finished-at="2022-05-27T04:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createContactsTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="createContactsTest" duration-ms="12819" started-at="2022-05-27T04:48:20Z" finished-at="2022-05-27T04:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="afterMethod" is-config="true" duration-ms="1912" started-at="2022-05-27T04:48:33Z" finished-at="2022-05-27T04:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClassTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="afterClassTest" is-config="true" duration-ms="716" started-at="2022-05-27T04:48:35Z" finished-at="2022-05-27T04:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTest -->
+        <test-method status="PASS" signature="afterSuiteTest()[pri:0, instance:com.vtiger.contactsTest.CreateContactsTest@6d24ffa1]" name="afterSuiteTest" is-config="true" duration-ms="0" started-at="2022-05-27T04:48:36Z" finished-at="2022-05-27T04:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteTest -->
+      </class> <!-- com.vtiger.contactsTest.CreateContactsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

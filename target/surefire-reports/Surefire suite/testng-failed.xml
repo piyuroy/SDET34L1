@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.vtiger.contactsTest.CreateContactsTest">
+        <methods>
+          <include name="afterSuiteTest"/>
+          <include name="afterMethod"/>
+          <include name="afterClassTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeSuiteTest"/>
+          <include name="createContactsTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.vtiger.contactsTest.CreateContactsTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
